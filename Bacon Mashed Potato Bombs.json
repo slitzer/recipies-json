@@ -1,0 +1,63 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Bacon Mashed Potato Bombs",
+  "description": "Crispy crumbed mashed-potato balls wrapped in bacon and stuffed with mozzarella, deep-fried until golden.",
+  "recipeCategory": "Appetizer",
+  "keywords": "bacon, potato, mashed potato, mozzarella, fried, party food",
+  "recipeYield": "8 bombs",
+  "prepTime": "PT25M",
+  "cookTime": "PT25M",
+  "totalTime": "PT1H50M",
+  "recipeIngredient": [
+    "5 medium potatoes (about 900 g), peeled (a little skin left is fine)",
+    "Water, for boiling",
+    "1 tsp salt (plus more to season)",
+    "1/2 tsp ground black pepper (plus more to season)",
+    "1 egg",
+    "1 tbsp barbecue spice (BBQ seasoning), or to taste",
+    "120 g mozzarella cheese, cut into 8 equal cubes",
+    "8 bacon strips",
+    "1 cup bread crumbs (any crumbs that coat well)",
+    "About 500 ml neutral oil, for deep-frying",
+    "8 toothpicks (to secure bacon)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Peel potatoes (doesn’t need to be perfect). Cut into evenly sized chunks so they cook quickly."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Boil potatoes in water with a pinch of salt for 15–20 minutes, until a knife slides in easily. Drain well."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Mash potatoes while warm. Spread out and let cool completely (about 1 hour)."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Once cool, mix mashed potato with the egg, BBQ spice, salt, and pepper until evenly combined."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Divide mixture into 8 balls. Flatten each ball, place a mozzarella cube in the center, then seal and roll back into a smooth ball."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Roll each ball in bread crumbs to coat thoroughly."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Wrap 1 bacon strip around each crumbed ball (twist as you wrap to help it cling). Secure with a toothpick."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Heat oil to 180°C in a deep pot. Fry 2–3 bombs at a time for 2–3 minutes, turning, until golden-brown all over."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Drain on paper towels. Remove toothpicks before serving. (Optional: fry slightly longer if you want the cheese extra-melty—just don’t burn the bacon.)"
+    }
+  ]
+}
