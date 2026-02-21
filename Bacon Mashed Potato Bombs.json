@@ -1,63 +1,251 @@
 {
-  "@context": "https://schema.org",
-  "@type": "Recipe",
+  "id": "850687b4-d4a7-4b5e-b5be-fcc180d332d4",
+  "userId": "ce21d36e-2957-4816-8caf-c01834f4fed8",
+  "groupId": "9dde147e-7749-4efd-b9b1-31e1e9315128",
   "name": "Bacon Mashed Potato Bombs",
-  "description": "Crispy crumbed mashed-potato balls wrapped in bacon and stuffed with mozzarella, deep-fried until golden.",
-  "recipeCategory": "Appetizer",
-  "keywords": "bacon, potato, mashed potato, mozzarella, fried, party food",
+  "slug": "bacon-mashed-potato-bombs",
+  "image": null,
   "recipeYield": "8 bombs",
+  "totalTime": "PT1H50M",
   "prepTime": "PT25M",
   "cookTime": "PT25M",
-  "totalTime": "PT1H50M",
+  "performTime": "PT1H",
+  "description": "Crispy crumbed mashed-potato balls wrapped in bacon and stuffed with mozzarella, deep-fried until golden.",
+  "recipeCategory": [
+    "Appetizer"
+  ],
+  "tags": [
+    "bacon",
+    "potato",
+    "fried",
+    "snack",
+    "party food"
+  ],
+  "tools": [],
+  "rating": null,
+  "orgURL": null,
+  "dateAdded": "2026-02-21",
+  "dateUpdated": "2026-02-21T14:31:11.219824",
+  "createdAt": "2026-02-21T14:31:11.221953",
+  "updateAt": "2026-02-21T14:31:11.221956",
+  "lastMade": null,
   "recipeIngredient": [
-    "5 medium potatoes (about 900 g), peeled (a little skin left is fine)",
-    "Water, for boiling",
-    "1 tsp salt (plus more to season)",
-    "1/2 tsp ground black pepper (plus more to season)",
-    "1 egg",
-    "1 tbsp barbecue spice (BBQ seasoning), or to taste",
-    "120 g mozzarella cheese, cut into 8 equal cubes",
-    "8 bacon strips",
-    "1 cup bread crumbs (any crumbs that coat well)",
-    "About 500 ml neutral oil, for deep-frying",
-    "8 toothpicks (to secure bacon)"
+    {
+      "quantity": 1,
+      "unit": null,
+      "food": null,
+      "note": "5 medium potatoes (about 900 g), peeled (a little skin left is fine)",
+      "isFood": false,
+      "disableAmount": true,
+      "display": "5 medium potatoes (about 900 g), peeled (a little skin left is fine)",
+      "title": null,
+      "originalText": null,
+      "referenceId": "36ba9d50-0a77-45d3-ac4a-8b4b8b3b771f"
+    },
+    {
+      "quantity": 1,
+      "unit": null,
+      "food": null,
+      "note": "Water, for boiling",
+      "isFood": false,
+      "disableAmount": true,
+      "display": "Water, for boiling",
+      "title": null,
+      "originalText": null,
+      "referenceId": "f60dca13-3a45-4973-8460-fe2c9f3a9fa9"
+    },
+    {
+      "quantity": 1,
+      "unit": null,
+      "food": null,
+      "note": "1 tsp salt (plus more to season)",
+      "isFood": false,
+      "disableAmount": true,
+      "display": "1 tsp salt (plus more to season)",
+      "title": null,
+      "originalText": null,
+      "referenceId": "5e478b94-0523-49db-88dd-90073b585c25"
+    },
+    {
+      "quantity": 1,
+      "unit": null,
+      "food": null,
+      "note": "1/2 tsp ground black pepper (plus more to season)",
+      "isFood": false,
+      "disableAmount": true,
+      "display": "1/2 tsp ground black pepper (plus more to season)",
+      "title": null,
+      "originalText": null,
+      "referenceId": "e125b929-320f-4420-9b62-2c6a39896c5c"
+    },
+    {
+      "quantity": 1,
+      "unit": null,
+      "food": null,
+      "note": "1 egg",
+      "isFood": false,
+      "disableAmount": true,
+      "display": "1 egg",
+      "title": null,
+      "originalText": null,
+      "referenceId": "772956c4-bb93-493f-9b86-6bc45dd07036"
+    },
+    {
+      "quantity": 1,
+      "unit": null,
+      "food": null,
+      "note": "1 tbsp barbecue spice (BBQ seasoning), or to taste",
+      "isFood": false,
+      "disableAmount": true,
+      "display": "1 tbsp barbecue spice (BBQ seasoning), or to taste",
+      "title": null,
+      "originalText": null,
+      "referenceId": "8856fe12-281f-446f-b2b7-aa8ed0d620c7"
+    },
+    {
+      "quantity": 1,
+      "unit": null,
+      "food": null,
+      "note": "120 g mozzarella cheese, cut into 8 equal cubes",
+      "isFood": false,
+      "disableAmount": true,
+      "display": "120 g mozzarella cheese, cut into 8 equal cubes",
+      "title": null,
+      "originalText": null,
+      "referenceId": "73bbd96d-0fdc-4d6d-bc5f-388a497d28b1"
+    },
+    {
+      "quantity": 1,
+      "unit": null,
+      "food": null,
+      "note": "8 bacon strips",
+      "isFood": false,
+      "disableAmount": true,
+      "display": "8 bacon strips",
+      "title": null,
+      "originalText": null,
+      "referenceId": "09868a75-4466-4131-a100-d827b2fba5e1"
+    },
+    {
+      "quantity": 1,
+      "unit": null,
+      "food": null,
+      "note": "1 cup bread crumbs (any crumbs that coat well)",
+      "isFood": false,
+      "disableAmount": true,
+      "display": "1 cup bread crumbs (any crumbs that coat well)",
+      "title": null,
+      "originalText": null,
+      "referenceId": "cbed7c46-57ef-4e0d-aaff-69cba0c8b0ef"
+    },
+    {
+      "quantity": 1,
+      "unit": null,
+      "food": null,
+      "note": "About 500 ml neutral oil, for deep-frying",
+      "isFood": false,
+      "disableAmount": true,
+      "display": "About 500 ml neutral oil, for deep-frying",
+      "title": null,
+      "originalText": null,
+      "referenceId": "c8b5d7ad-654c-4d39-8b83-044eea7b1d57"
+    },
+    {
+      "quantity": 1,
+      "unit": null,
+      "food": null,
+      "note": "8 toothpicks (to secure bacon)",
+      "isFood": false,
+      "disableAmount": true,
+      "display": "8 toothpicks (to secure bacon)",
+      "title": null,
+      "originalText": null,
+      "referenceId": "b6e3c9f9-e3d6-4a22-b4b2-50ceac4ca5c4"
+    }
   ],
   "recipeInstructions": [
     {
-      "@type": "HowToStep",
-      "text": "Peel potatoes (doesn’t need to be perfect). Cut into evenly sized chunks so they cook quickly."
+      "id": "f9ec7a64-4c6e-4fb5-9dc2-362cbfdd3a12",
+      "title": "Prep potatoes",
+      "text": "Peel potatoes (doesn’t need to be perfect). Cut into evenly sized chunks so they cook evenly and fast.",
+      "ingredientReferences": []
     },
     {
-      "@type": "HowToStep",
-      "text": "Boil potatoes in water with a pinch of salt for 15–20 minutes, until a knife slides in easily. Drain well."
+      "id": "740ec0a7-2bce-4c1b-a5b6-d727bd0583e2",
+      "title": "Boil",
+      "text": "Boil potatoes in lightly salted water for **15–20 minutes**, until a knife slides in easily. Drain well.",
+      "ingredientReferences": []
     },
     {
-      "@type": "HowToStep",
-      "text": "Mash potatoes while warm. Spread out and let cool completely (about 1 hour)."
+      "id": "caf2a2f0-7ed2-4fe0-8e84-dc6d553db86b",
+      "title": "Mash + cool",
+      "text": "Mash while warm, then spread out and let cool completely (about **1 hour**). Cooling matters so the egg doesn’t scramble.",
+      "ingredientReferences": []
     },
     {
-      "@type": "HowToStep",
-      "text": "Once cool, mix mashed potato with the egg, BBQ spice, salt, and pepper until evenly combined."
+      "id": "e0c1f2d0-5a9e-4a8d-bb49-260c204d4b3a",
+      "title": "Season mix",
+      "text": "Mix cooled mash with **1 egg**, BBQ spice, salt, and pepper until evenly combined.",
+      "ingredientReferences": []
     },
     {
-      "@type": "HowToStep",
-      "text": "Divide mixture into 8 balls. Flatten each ball, place a mozzarella cube in the center, then seal and roll back into a smooth ball."
+      "id": "5b8b5d80-6da0-4d27-8a70-5fc2f2d5d51b",
+      "title": "Portion",
+      "text": "Divide mixture into **8** equal balls.",
+      "ingredientReferences": []
     },
     {
-      "@type": "HowToStep",
-      "text": "Roll each ball in bread crumbs to coat thoroughly."
+      "id": "f4e7f19a-7b28-40cf-8bc7-6e67dbe1f94d",
+      "title": "Stuff",
+      "text": "Flatten one ball, place a mozzarella cube in the middle, then seal and roll smooth. Repeat for all bombs.",
+      "ingredientReferences": []
     },
     {
-      "@type": "HowToStep",
-      "text": "Wrap 1 bacon strip around each crumbed ball (twist as you wrap to help it cling). Secure with a toothpick."
+      "id": "b1c4b71c-ec3c-4f38-9a7d-151f9f4f87c6",
+      "title": "Crumb",
+      "text": "Roll each potato ball in bread crumbs until fully coated.",
+      "ingredientReferences": []
     },
     {
-      "@type": "HowToStep",
-      "text": "Heat oil to 180°C in a deep pot. Fry 2–3 bombs at a time for 2–3 minutes, turning, until golden-brown all over."
+      "id": "a7aebae4-20d6-43f4-9d3a-7d4a9f1a2fd3",
+      "title": "Wrap bacon",
+      "text": "Wrap each ball with a bacon strip (twist as you wrap to help it cling). Secure with a toothpick.",
+      "ingredientReferences": []
     },
     {
-      "@type": "HowToStep",
-      "text": "Drain on paper towels. Remove toothpicks before serving. (Optional: fry slightly longer if you want the cheese extra-melty—just don’t burn the bacon.)"
+      "id": "59fdc0cc-b4fd-4d2b-95b8-3a8f75b4929d",
+      "title": "Fry",
+      "text": "Heat oil to **180°C**. Fry **2–3 at a time** for **2–3 minutes**, turning, until golden-brown all over. Drain on paper towels.",
+      "ingredientReferences": []
+    },
+    {
+      "id": "f3bf3a57-2a7e-4705-a1a0-7f38fd8c1b43",
+      "title": "Serve",
+      "text": "**Remove toothpicks before eating.** Serve hot while the cheese is still gooey.\n\n*(If you want extra-melty cheese, fry ~30–60 seconds longer, but watch the bacon.)*",
+      "ingredientReferences": []
     }
-  ]
+  ],
+  "nutrition": {
+    "calories": null,
+    "fatContent": null,
+    "proteinContent": null,
+    "carbohydrateContent": null,
+    "fiberContent": null,
+    "sodiumContent": null,
+    "sugarContent": null
+  },
+  "settings": {
+    "public": true,
+    "showNutrition": true,
+    "showAssets": true,
+    "landscapeView": true,
+    "disableComments": false,
+    "disableAmount": true,
+    "locked": false
+  },
+  "assets": [],
+  "notes": [],
+  "extras": {},
+  "isOcrRecipe": false,
+  "comments": []
 }
